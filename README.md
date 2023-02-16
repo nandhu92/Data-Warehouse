@@ -1,5 +1,5 @@
 # Data-Warehouse
-Created a multi dimensional data warehouse for a product company. 
+Created a multi dimensional data warehouse for a product company.
 
 • Executed a multi-dimensional Data Warehouse for sales and financial data for a company
 
